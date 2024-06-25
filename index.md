@@ -22,4 +22,4 @@
 
 
 Added headings from h1 to h6.
-![image of a flower](http://tiny.cc/05etyz)
+![image of flowers in pot ](https://raw.githubusercontent.com/alfiyarasheed/skills-communicate-using-markdown/main/nordwood-themes-LrAsfltinp0-unsplash.jpg)
