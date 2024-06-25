@@ -26,3 +26,6 @@ Added headings from h1 to h6.
 ``` java
 System.out.println("hello world!");
 ```
+- [ ] Turn on GitHub Pages
+- [X] Outline my portfolio
+- [X] Introduce myself to the world
